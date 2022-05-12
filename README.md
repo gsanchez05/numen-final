@@ -1,6 +1,6 @@
 # Numen trabajo Final
 
-Para cargar la base de datos usar la suguiente url como referencia:
+Para cargar la base de datos usar la siguiente url como referencia:
 
 
 ISO Alpha-2, ISO Alpha-3 y UN Code List:
