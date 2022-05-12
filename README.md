@@ -11,9 +11,13 @@ https://www.nationsonline.org/oneworld/country_code_list.htm
 Routes:
 ========================================================================
 countries/crear
+
 countries/ver
+
 countries/ver/id
+
 countries/editar/id
+
 countries/eliminar/id
 
 
